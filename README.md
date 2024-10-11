@@ -7,6 +7,7 @@
 　　In our model, we abstract some system elements as strategies participants can choose and establish interaction and feedback between the two layers. We predict the outcome of strategy choice by updating the group's state, simulating changes in physical element proportions under driving element influences, and reflecting system evolution trends.  
 　　Due to the finite rationality of participants, the optimal equilibrium of the game cannot be found initially. Therefore, participant strategies must be modified and improved through numerous game iterations. Therefore, the code for the model’s evolutionary process is provided here on GitHub.  
 ## 2 Code Operation Instructions
+　　The code in this project enables the simulation of the evolutionary game process within the model, helping other researchers to better understand and utilize our findings. This code can simulate a specific scenario, and researchers can modify the algorithm based on the characteristics and data of different systems or scenarios. Below is an introduction to the files:
 ### 2.1 Project Overview
 * ___(1) "1-Algorithm": Main Program.___
 * ___(2) Input Files:___
